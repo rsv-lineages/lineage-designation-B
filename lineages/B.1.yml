@@ -1,0 +1,9 @@
+defining_mutations: []
+name: B.1
+parent: B
+representatives:
+- MG642045
+- MG642037
+- MG642065
+- MG642044
+unaliased_name: B.1
