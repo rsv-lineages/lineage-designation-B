@@ -1,0 +1,21 @@
+defining_mutations:
+  - locus: F
+    position: 191
+    state: R
+  - locus: F
+    position: 206
+    state: M
+  - locus: F
+    position: 209
+    state: R
+name: B.D.4.1.1
+parent: B.D.4.1
+representatives:
+- ON237171
+- MZ515612
+- MZ515665
+- MZ515849
+- MZ515970
+- MZ515591
+- MZ515613
+unaliased_name: B.5.4.1.1

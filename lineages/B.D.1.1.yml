@@ -1,8 +1,14 @@
-defining_mutations: []
+defining_mutations:
+  - locus: F
+    position: 19
+    state: A
 name: B.D.1.1
 parent: B.D.1
 representatives:
+- KY249674
+- KY249661
 - KY249666
+- ON237101
 - ON237110
-- ON237115
+- ON237120
 unaliased_name: B.5.1.1

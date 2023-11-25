@@ -1,9 +1,19 @@
-defining_mutations: []
+defining_mutations:
+  - locus: G
+    position: 176
+    state: S
+  - locus: nuc
+    position: 808
+    state: C
 name: B.D.E.2
-parent: B.D.E
+parent: B.D.4.1.1
 representatives:
-- MZ515997
+- MZ515558
 - MZ516135
+- MZ515997
 - MZ516102
+- MZ515938
 - OM857390
-unaliased_name: B.5.E.2
+- OM857380
+- OR666591
+unaliased_name: B.5.4.1.1.2

@@ -1,5 +1,11 @@
-defining_mutations: []
+defining_mutations:
+  - locus: F
+    position: 19
+    state: V
+  - locus: F
+    position: 526
+    state: V
 name: B.D.E.3
-parent: B.D.E
+parent: B.D.4.1.1
 representatives: []
-unaliased_name: B.5.E.3
+unaliased_name: B.5.4.1.1.3

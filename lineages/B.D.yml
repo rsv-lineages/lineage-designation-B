@@ -1,12 +1,20 @@
-defining_mutations: []
+defining_mutations:
+  - locus: G
+    position: 252
+    state: T
+  - locus: G
+    position: 32
+    state: K
+  - locus: L
+    position: 374
+    state: D
 name: B.D
 parent: B
 representatives:
+- OK649721
 - OK649702
-- OK649703
-- OK649706
+- OK649707
 - MH594451
 - OK649725
-- MK109765
-- MK109781
+- MK109770
 unaliased_name: B.5

@@ -1,8 +1,16 @@
-defining_mutations: []
+defining_mutations:
+  - locus: P
+    position: 61
+    state: T
+  - locus: L
+    position: 164
+    state: M
 name: B.D.E.4
 parent: B.D.E
 representatives:
+- OM857389
 - OM857388
 - OM857382
+- OM857383
 - OM857387
-unaliased_name: B.5.E.4
+unaliased_name: B.5.4.1.1.4

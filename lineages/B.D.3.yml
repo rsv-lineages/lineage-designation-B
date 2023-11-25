@@ -1,8 +1,14 @@
-defining_mutations: []
+defining_mutations:
+  - locus: F
+    position: 123
+    state: G
+  - locus: F
+    position: 124
+    state: S
 name: B.D.3
 parent: B.D
 representatives:
-- MH594379
-- MH594402
-- MH594407
+- MH594414
+- MH594418
+- MH594410
 unaliased_name: B.5.3

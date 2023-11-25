@@ -1,10 +1,17 @@
-defining_mutations: []
+defining_mutations:
+  - locus: F
+    position: 190
+    state: N
+  - locus: F
+    position: 389
+    state: P
 name: B.D.E.1
-parent: B.D.E
+parent: B.D.4.1.1
 representatives:
-- OP965698
+- OP965700
 - OP965703
-- OP890343
-- OP890347
+- OP965707
 - OQ357797
-unaliased_name: B.5.E.1
+- OP890346
+- OP890343
+unaliased_name: B.5.4.1.1.1

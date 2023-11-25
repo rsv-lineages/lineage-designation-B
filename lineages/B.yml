@@ -1,0 +1,16 @@
+defining_mutations:
+  - locus: F
+    position: 103
+    state: A
+  - locus: L
+    position: 1742
+    state: T
+  - locus: L
+    position: 2162
+    state: L
+name: B
+parent: None
+representatives:
+- KU316097
+- KP856965
+unaliased_name: B

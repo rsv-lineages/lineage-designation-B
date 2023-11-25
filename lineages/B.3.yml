@@ -1,7 +1,14 @@
-defining_mutations: []
+defining_mutations:
+  - locus: L
+    position: 2162
+    state: I
+  - locus: Q
+    position: 77
+    state: S
 name: B.3
 parent: B
 representatives:
 - MG642049
 - MG642064
+- MG642062
 unaliased_name: B.3

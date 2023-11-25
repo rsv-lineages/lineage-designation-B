@@ -1,0 +1,18 @@
+defining_mutations:
+  - locus: F
+    position: 173
+    state: L
+  - locus: L
+    position: 715
+    state: V
+name: B.D.4.1
+parent: B.D.4
+representatives:
+- KY249660
+- LC384999
+- LC385005
+- ON237084
+- MK749871
+- MK749892
+- MK749898
+unaliased_name: B.5.4.1

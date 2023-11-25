@@ -1,12 +1,19 @@
-defining_mutations: []
+defining_mutations:
+  - locus: F
+    position: 172
+    state: Q
+  - locus: F
+    position: 103
+    state: V
 name: B.D.4
 parent: B.D
 representatives:
-- OK649701
-- MH594400
-- MH594441
-- MK109779
-- KY249663
-- MK109766
-- MK109780
+- OK649704
+- OK649708
+- OK649705
+- OK649728
+- OK649726
+- KY249677
+- KY249670
+- KY249667
 unaliased_name: B.5.4

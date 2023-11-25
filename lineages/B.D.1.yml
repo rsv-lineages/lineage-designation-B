@@ -1,8 +1,20 @@
-defining_mutations: []
+defining_mutations:
+  - locus: NS2
+    position: 82
+    state: S
+  - locus: M
+    position: 89
+    state: I
+  - locus: L
+    position: 1593
+    state: S
 name: B.D.1
 parent: B.D
 representatives:
 - OK649699
-- MH594430
+- MH594445
+- MH594450
+- MH594447
 - KY249662
+- KY249659
 unaliased_name: B.5.1

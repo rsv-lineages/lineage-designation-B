@@ -1,8 +1,17 @@
-defining_mutations: []
+defining_mutations:
+  - locus: N
+    position: 97
+    state: V
+  - locus: P
+    position: 145
+    state: V
+  - locus: F
+    position: 23
+    state: A
 name: B.D.2
 parent: B.D
 representatives:
-- MH594352
-- MH594457
+- MH594443
+- MH594444
 - MH594461
 unaliased_name: B.5.2

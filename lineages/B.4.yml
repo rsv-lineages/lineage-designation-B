@@ -1,7 +1,11 @@
-defining_mutations: []
+defining_mutations:
+  - locus: NS1
+    position: 105
+    state: I
+  - locus: G
+    position: 116
+    state: T
 name: B.4
 parent: B
-representatives:
-- OK649748
-- JX198144
+representatives: []
 unaliased_name: B.4
