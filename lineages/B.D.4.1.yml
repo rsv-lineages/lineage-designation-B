@@ -5,6 +5,9 @@ defining_mutations:
   - locus: L
     position: 715
     state: V
+  - locus: G
+    position: 252
+    state: I
 name: B.D.4.1
 parent: B.D.4
 representatives:

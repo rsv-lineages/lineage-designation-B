@@ -9,7 +9,7 @@ defining_mutations:
     position: 2162
     state: L
 name: B
-parent: None
+parent: none
 representatives:
 - KU316097
 - KP856965

@@ -4,7 +4,7 @@ defining_mutations:
     state: V
   - locus: F
     position: 312
-    state: V
+    state: H
   - locus: N
     position: 125
     state: A

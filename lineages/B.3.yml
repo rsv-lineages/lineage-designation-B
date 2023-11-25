@@ -2,7 +2,7 @@ defining_mutations:
   - locus: L
     position: 2162
     state: I
-  - locus: Q
+  - locus: G
     position: 77
     state: S
 name: B.3

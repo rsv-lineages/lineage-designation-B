@@ -1,7 +1,7 @@
 defining_mutations:
   - locus: F
     position: 19
-    state: A
+    state: T
 name: B.D.1.1
 parent: B.D.1
 representatives:
