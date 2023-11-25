@@ -1,6 +1,6 @@
 # Summary of designated clades
 ## B
- * parent: [None](#None)
+ * parent: [none](#none)
  * defining mutations or substitutions: F:103A, L:1742T, L:2162L
  * representative sequences:
    - [KU316097](https://www.ncbi.nlm.nih.gov/nuccore/KU316097)
@@ -9,7 +9,7 @@
 
 ## B.1
  * parent: [B](#B)
- * defining mutations or substitutions: F:103V, F:312V, N:125A
+ * defining mutations or substitutions: F:103V, F:312H, N:125A
  * representative sequences:
    - [MG642045](https://www.ncbi.nlm.nih.gov/nuccore/MG642045)
    - [MG642037](https://www.ncbi.nlm.nih.gov/nuccore/MG642037)
@@ -34,7 +34,7 @@
 
 ## B.3
  * parent: [B](#B)
- * defining mutations or substitutions: L:2162I, Q:77S
+ * defining mutations or substitutions: L:2162I, G:77S
  * representative sequences:
    - [MG642049](https://www.ncbi.nlm.nih.gov/nuccore/MG642049)
    - [MG642064](https://www.ncbi.nlm.nih.gov/nuccore/MG642064)
@@ -72,7 +72,7 @@
 
 ## B.D.1.1
  * parent: [B.D.1](#BD1)
- * defining mutations or substitutions: F:19A
+ * defining mutations or substitutions: F:19T
  * representative sequences:
    - [KY249674](https://www.ncbi.nlm.nih.gov/nuccore/KY249674)
    - [KY249661](https://www.ncbi.nlm.nih.gov/nuccore/KY249661)
@@ -116,7 +116,7 @@
 
 ## B.D.4.1
  * parent: [B.D.4](#BD4)
- * defining mutations or substitutions: F:173L, L:715V
+ * defining mutations or substitutions: F:173L, L:715V, G:252I
  * representative sequences:
    - [KY249660](https://www.ncbi.nlm.nih.gov/nuccore/KY249660)
    - [LC384999](https://www.ncbi.nlm.nih.gov/nuccore/LC384999)
@@ -142,7 +142,7 @@
 
 ## B.D.E.1
  * parent: [B.D.4.1.1](#BD411)
- * defining mutations or substitutions: F:190N, F:389P
+ * defining mutations or substitutions: F:190N, F:389P, G:252T
  * representative sequences:
    - [OP965700](https://www.ncbi.nlm.nih.gov/nuccore/OP965700)
    - [OP965703](https://www.ncbi.nlm.nih.gov/nuccore/OP965703)
@@ -172,7 +172,7 @@
  * [View in Nextstrain](https://nextstrain.org/rsv/B/genome?branchLabel=clade&c=clade&label=clade:B.D.E.3)
 
 ## B.D.E.4
- * parent: [B.D.E](#BDE)
+ * parent: [B.D.4.1.1](#BD411)
  * defining mutations or substitutions: P:61T, L:164M
  * representative sequences:
    - [OM857389](https://www.ncbi.nlm.nih.gov/nuccore/OM857389)
