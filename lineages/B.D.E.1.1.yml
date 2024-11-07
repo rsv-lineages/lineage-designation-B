@@ -1,0 +1,23 @@
+defining_mutations:
+- locus: P
+  position: 225
+  state: N
+- locus: SH
+  position: 49
+  state: M
+- locus: F
+  position: 190
+  state: S
+- locus: L
+  position: 590
+  state: S
+name: B.D.E.1.1
+parent: B.D.E.1
+representatives:
+- PQ492094
+- PQ492095
+- PQ492096
+- PQ492097
+- PQ492098
+- PQ492135
+unaliased_name: B.5.4.1.1.1.1
