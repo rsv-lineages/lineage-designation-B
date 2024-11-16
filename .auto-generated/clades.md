@@ -152,6 +152,18 @@
    - [OP890343](https://www.ncbi.nlm.nih.gov/nuccore/OP890343)
  * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1)
 
+## B.D.E.1.1
+ * parent: [B.D.E.1](#BDE1)
+ * defining mutations or substitutions: P:225N, SH:49M, F:190S, L:590S
+ * representative sequences:
+   - [PQ492094](https://www.ncbi.nlm.nih.gov/nuccore/PQ492094)
+   - [PQ492095](https://www.ncbi.nlm.nih.gov/nuccore/PQ492095)
+   - [PQ492096](https://www.ncbi.nlm.nih.gov/nuccore/PQ492096)
+   - [PQ492097](https://www.ncbi.nlm.nih.gov/nuccore/PQ492097)
+   - [PQ492098](https://www.ncbi.nlm.nih.gov/nuccore/PQ492098)
+   - [PQ492135](https://www.ncbi.nlm.nih.gov/nuccore/PQ492135)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.1)
+
 ## B.D.E.2
  * parent: [B.D.4.1.1](#BD411)
  * defining mutations or substitutions: G:176S, nuc:808C

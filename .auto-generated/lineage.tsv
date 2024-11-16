@@ -47,6 +47,11 @@ B.D.E.1	clade	B.D.4.1.1
 B.D.E.1	F	190	N
 B.D.E.1	F	389	P
 B.D.E.1	G	252	T
+B.D.E.1.1	clade	B.D.E.1	
+B.D.E.1.1	P	225	N
+B.D.E.1.1	SH	49	M
+B.D.E.1.1	F	190	S
+B.D.E.1.1	L	590	S
 B.D.E.2	clade	B.D.4.1.1	
 B.D.E.2	G	176	S
 B.D.E.2	nuc	808	C
