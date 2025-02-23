@@ -1,0 +1,21 @@
+defining_mutations:
+  - locus: P
+    position: 73
+    state: S
+  - locus: F
+    position: 211
+    state: N
+  - locus: F
+    position: 327
+    state: N
+  - locus: F
+    position: 529
+    state: V
+name: B.D.E.5
+parent: B.D.4.1.1
+representatives:
+- OR975316
+- OR162288
+- PQ083698
+- PQ638753
+unaliased_name: B.5.4.1.1.5

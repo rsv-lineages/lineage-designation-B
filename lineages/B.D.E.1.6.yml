@@ -1,0 +1,13 @@
+defining_mutations:
+- locus: F
+  position: 42
+  state: K
+- locus: L
+  position: 577
+  state: N
+name: B.D.E.1.6
+parent: B.D.E.1
+representatives:
+- PQ849400
+- PQ798811
+unaliased_name: B.5.4.1.1.1.6
