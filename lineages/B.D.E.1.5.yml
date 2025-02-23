@@ -8,6 +8,9 @@ defining_mutations:
 - locus: G
   position: 91
   state: F
+- locus: L
+  position: 2162
+  state: F
 name: B.D.E.1.5
 parent: B.D.E.1
 representatives:
