@@ -1,0 +1,20 @@
+defining_mutations:
+  - locus: F
+    position: 312
+    state: H
+  - locus: NS2
+    position: 80
+    state: R
+  - locus: L
+    position: 164
+    state: M
+  - locus: G
+    position: 252
+    state: T
+name: B.D.4.1.3
+parent: B.D.4.1
+representatives:
+- OK500261
+- OK500261
+- PQ762971
+unaliased_name: B.5.4.1.3

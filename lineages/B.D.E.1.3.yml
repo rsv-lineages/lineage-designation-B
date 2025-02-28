@@ -1,0 +1,16 @@
+defining_mutations:
+- locus: F
+  position: 118
+  state: A
+- locus: F
+  position: 12
+  state: I
+- locus: G
+  position: 103
+  state: I
+name: B.D.E.1.3
+parent: B.D.E.1
+representatives:
+- PP910821
+- PP709468
+unaliased_name: B.5.4.1.1.1.3

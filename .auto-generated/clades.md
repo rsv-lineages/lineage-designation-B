@@ -140,6 +140,24 @@
    - [MZ515613](https://www.ncbi.nlm.nih.gov/nuccore/MZ515613)
  * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.1)
 
+## B.D.4.1.3
+ * parent: [B.D.4.1](#BD41)
+ * defining mutations or substitutions: F:68Q, NS2:80R, G:90H
+ * representative sequences:
+   - [MN365320](https://www.ncbi.nlm.nih.gov/nuccore/MN365320)
+   - [MN365557](https://www.ncbi.nlm.nih.gov/nuccore/MN365557)
+   - [MN365519](https://www.ncbi.nlm.nih.gov/nuccore/MN365519)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.3)
+
+## B.D.4.1.3
+ * parent: [B.D.4.1](#BD41)
+ * defining mutations or substitutions: F:312H, NS2:80R, L:164M, G:252T
+ * representative sequences:
+   - [OK500261](https://www.ncbi.nlm.nih.gov/nuccore/OK500261)
+   - [OK500261](https://www.ncbi.nlm.nih.gov/nuccore/OK500261)
+   - [PQ762971](https://www.ncbi.nlm.nih.gov/nuccore/PQ762971)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.3)
+
 ## B.D.E.1
  * parent: [B.D.4.1.1](#BD411)
  * defining mutations or substitutions: F:190N, F:389P, G:252T
@@ -154,15 +172,54 @@
 
 ## B.D.E.1.1
  * parent: [B.D.E.1](#BDE1)
- * defining mutations or substitutions: P:225N, SH:49M, F:190S, L:590S
+ * defining mutations or substitutions: P:225N, L:590S, NS1:74E
  * representative sequences:
-   - [PQ492094](https://www.ncbi.nlm.nih.gov/nuccore/PQ492094)
-   - [PQ492095](https://www.ncbi.nlm.nih.gov/nuccore/PQ492095)
-   - [PQ492096](https://www.ncbi.nlm.nih.gov/nuccore/PQ492096)
-   - [PQ492097](https://www.ncbi.nlm.nih.gov/nuccore/PQ492097)
-   - [PQ492098](https://www.ncbi.nlm.nih.gov/nuccore/PQ492098)
-   - [PQ492135](https://www.ncbi.nlm.nih.gov/nuccore/PQ492135)
+   - [PV081112](https://www.ncbi.nlm.nih.gov/nuccore/PV081112)
+   - [PV016988](https://www.ncbi.nlm.nih.gov/nuccore/PV016988)
+   - [PQ492134](https://www.ncbi.nlm.nih.gov/nuccore/PQ492134)
  * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.1)
+
+## B.D.E.1.2
+ * parent: [B.D.E.1](#BDE1)
+ * defining mutations or substitutions: G:116T, F:12I, NS2:6N
+ * representative sequences:
+   - [PP910802](https://www.ncbi.nlm.nih.gov/nuccore/PP910802)
+   - [PP084063](https://www.ncbi.nlm.nih.gov/nuccore/PP084063)
+   - [PP959042](https://www.ncbi.nlm.nih.gov/nuccore/PP959042)
+   - [PQ117672](https://www.ncbi.nlm.nih.gov/nuccore/PQ117672)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.2)
+
+## B.D.E.1.3
+ * parent: [B.D.E.1](#BDE1)
+ * defining mutations or substitutions: F:118A, F:12I, G:103I
+ * representative sequences:
+   - [PP910821](https://www.ncbi.nlm.nih.gov/nuccore/PP910821)
+   - [PP709468](https://www.ncbi.nlm.nih.gov/nuccore/PP709468)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.3)
+
+## B.D.E.1.4
+ * parent: [B.D.E.1](#BDE1)
+ * defining mutations or substitutions: F:12I, M2-1:125V, NS2:82A, P:73S
+ * representative sequences:
+   - [PP910821](https://www.ncbi.nlm.nih.gov/nuccore/PP910821)
+   - [PP709468](https://www.ncbi.nlm.nih.gov/nuccore/PP709468)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.4)
+
+## B.D.E.1.5
+ * parent: [B.D.E.1](#BDE1)
+ * defining mutations or substitutions: F:42K, F:125P, G:91F, L:2162F
+ * representative sequences:
+   - [PQ798813](https://www.ncbi.nlm.nih.gov/nuccore/PQ798813)
+   - [PQ798803](https://www.ncbi.nlm.nih.gov/nuccore/PQ798803)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.5)
+
+## B.D.E.1.6
+ * parent: [B.D.E.1](#BDE1)
+ * defining mutations or substitutions: F:42K, L:577N
+ * representative sequences:
+   - [PQ849400](https://www.ncbi.nlm.nih.gov/nuccore/PQ849400)
+   - [PQ798811](https://www.ncbi.nlm.nih.gov/nuccore/PQ798811)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.6)
 
 ## B.D.E.2
  * parent: [B.D.4.1.1](#BD411)
@@ -193,4 +250,14 @@
    - [OM857383](https://www.ncbi.nlm.nih.gov/nuccore/OM857383)
    - [OM857387](https://www.ncbi.nlm.nih.gov/nuccore/OM857387)
  * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.4)
+
+## B.D.E.5
+ * parent: [B.D.4.1.1](#BD411)
+ * defining mutations or substitutions: P:73S, F:211N, F:327N, F:529V
+ * representative sequences:
+   - [OR975316](https://www.ncbi.nlm.nih.gov/nuccore/OR975316)
+   - [OR162288](https://www.ncbi.nlm.nih.gov/nuccore/OR162288)
+   - [PQ083698](https://www.ncbi.nlm.nih.gov/nuccore/PQ083698)
+   - [PQ638753](https://www.ncbi.nlm.nih.gov/nuccore/PQ638753)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.5)
 
