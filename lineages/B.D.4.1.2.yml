@@ -8,10 +8,10 @@ defining_mutations:
   - locus: G
     position: 90
     state: H
-name: B.D.4.1.3
+name: B.D.4.1.2
 parent: B.D.4.1
 representatives:
 - MN365320
 - MN365557
 - MN365519
-unaliased_name: B.5.4.1.3
+unaliased_name: B.5.4.1.2
