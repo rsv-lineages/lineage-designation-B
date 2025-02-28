@@ -43,11 +43,10 @@ B.D.4.1.1	clade	B.D.4.1
 B.D.4.1.1	F	191	R
 B.D.4.1.1	F	206	M
 B.D.4.1.1	F	209	R
-B.D.4.1.2	clade	B.D.4.1	
-B.D.4.1.2	F	312	H
-B.D.4.1.2	NS2	80	R
-B.D.4.1.2	L	164	M
-B.D.4.1.2	G	252	T
+B.D.4.1.3	clade	B.D.4.1	
+B.D.4.1.3	F	68	Q
+B.D.4.1.3	NS2	80	R
+B.D.4.1.3	G	90	H
 B.D.E.1	clade	B.D.4.1.1	
 B.D.E.1	F	190	N
 B.D.E.1	F	389	P

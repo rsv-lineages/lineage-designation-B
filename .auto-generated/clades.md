@@ -140,14 +140,23 @@
    - [MZ515613](https://www.ncbi.nlm.nih.gov/nuccore/MZ515613)
  * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.1)
 
-## B.D.4.1.2
+## B.D.4.1.3
+ * parent: [B.D.4.1](#BD41)
+ * defining mutations or substitutions: F:68Q, NS2:80R, G:90H
+ * representative sequences:
+   - [MN365320](https://www.ncbi.nlm.nih.gov/nuccore/MN365320)
+   - [MN365557](https://www.ncbi.nlm.nih.gov/nuccore/MN365557)
+   - [MN365519](https://www.ncbi.nlm.nih.gov/nuccore/MN365519)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.3)
+
+## B.D.4.1.3
  * parent: [B.D.4.1](#BD41)
  * defining mutations or substitutions: F:312H, NS2:80R, L:164M, G:252T
  * representative sequences:
    - [OK500261](https://www.ncbi.nlm.nih.gov/nuccore/OK500261)
    - [OK500261](https://www.ncbi.nlm.nih.gov/nuccore/OK500261)
    - [PQ762971](https://www.ncbi.nlm.nih.gov/nuccore/PQ762971)
- * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.2)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.3)
 
 ## B.D.E.1
  * parent: [B.D.4.1.1](#BD411)
