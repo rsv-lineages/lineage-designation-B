@@ -1,0 +1,28 @@
+defining_mutations:
+- locus: NS1
+  position: 126
+  state: I
+- locus: G
+  position: 98
+  state: G
+- locus: G
+  position: 119
+  state: P
+- locus: G
+  position: 252
+  state: T
+- locus: L
+  position: 192
+  state: R
+- locus: L
+  position: 1742
+  state: M
+name: B.D.E.6
+parent: B.D.4.1.1
+representatives:
+- PP_002T65V
+- PP_002TDX3
+- PP_002TEAB
+- PP_002TF4N
+- PP_002U9W7
+unaliased_name: B.5.4.1.1.6
