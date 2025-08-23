@@ -1,0 +1,22 @@
+defining_mutations:
+  - locus: G
+    position: 112
+    state: Y
+  - locus: L
+    position: 176
+    state: S
+  - locus: L
+    position: 560
+    state: P
+  - locus: L
+    position: 1721
+    state: I
+name: B.D.E.1.8
+parent: B.D.E.1
+representatives:
+- PP_002WJT0
+- PP_002WJFR
+- PP_002W53U
+- PP_002WBC4
+- PP_002W6UA
+unaliased_name: B.5.4.1.1.1.8

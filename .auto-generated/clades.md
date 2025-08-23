@@ -222,6 +222,30 @@
    - [PQ798811](https://www.ncbi.nlm.nih.gov/nuccore/PQ798811)
  * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.6)
 
+## B.D.E.1.7
+ * parent: [B.D.E.1](#BDE1)
+ * defining mutations or substitutions: G:32R, G:223E
+ * representative sequences:
+   - [PP_002W9MM](https://pathoplexus.org/seq/PP_002W9MM)
+   - [PP_002W9NK](https://pathoplexus.org/seq/PP_002W9NK)
+   - [PP_002WMN7](https://pathoplexus.org/seq/PP_002WMN7)
+   - [PP_002WMP5](https://pathoplexus.org/seq/PP_002WMP5)
+   - [PP_002WN9Z](https://pathoplexus.org/seq/PP_002WN9Z)
+   - [PP_002WPL9](https://pathoplexus.org/seq/PP_002WPL9)
+   - [PP_002WR38](https://pathoplexus.org/seq/PP_002WR38)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.7)
+
+## B.D.E.1.8
+ * parent: [B.D.E.1](#BDE1)
+ * defining mutations or substitutions: G:112Y, L:176S, L:560P, L:1721I
+ * representative sequences:
+   - [PP_002WJT0](https://pathoplexus.org/seq/PP_002WJT0)
+   - [PP_002WJFR](https://pathoplexus.org/seq/PP_002WJFR)
+   - [PP_002W53U](https://pathoplexus.org/seq/PP_002W53U)
+   - [PP_002WBC4](https://pathoplexus.org/seq/PP_002WBC4)
+   - [PP_002W6UA](https://pathoplexus.org/seq/PP_002W6UA)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.8)
+
 ## B.D.E.2
  * parent: [B.D.4.1.1](#BD411)
  * defining mutations or substitutions: G:176S, nuc:808C
@@ -261,4 +285,26 @@
    - [PQ083698](https://www.ncbi.nlm.nih.gov/nuccore/PQ083698)
    - [PQ638753](https://www.ncbi.nlm.nih.gov/nuccore/PQ638753)
  * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.5)
+
+## B.D.E.6
+ * parent: [B.D.4.1.1](#BD411)
+ * defining mutations or substitutions: NS1:126I, G:98G, G:119P, G:252T, L:192R, L:1742M
+ * representative sequences:
+   - [PP_002T65V](https://pathoplexus.org/seq/PP_002T65V)
+   - [PP_002TDX3](https://pathoplexus.org/seq/PP_002TDX3)
+   - [PP_002TEAB](https://pathoplexus.org/seq/PP_002TEAB)
+   - [PP_002TF4N](https://pathoplexus.org/seq/PP_002TF4N)
+   - [PP_002U9W7](https://pathoplexus.org/seq/PP_002U9W7)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.6)
+
+## B.D.E.7
+ * parent: [B.D.4.1.1](#BD411)
+ * defining mutations or substitutions: P:67G, G:275P, F:13I, F:103A, L:1982L
+ * representative sequences:
+   - [PP_002WBXZ](https://pathoplexus.org/seq/PP_002WBXZ)
+   - [PP_002WXGA](https://pathoplexus.org/seq/PP_002WXGA)
+   - [PP_002WY4Z](https://pathoplexus.org/seq/PP_002WY4Z)
+   - [PP_002X9KP](https://pathoplexus.org/seq/PP_002X9KP)
+   - [PP_002XZMV](https://pathoplexus.org/seq/PP_002XZMV)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.7)
 
