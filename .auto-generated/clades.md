@@ -5,7 +5,7 @@
  * representative sequences:
    - [KU316097](https://www.ncbi.nlm.nih.gov/nuccore/KU316097)
    - [KP856965](https://www.ncbi.nlm.nih.gov/nuccore/KP856965)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B)
 
 ## B.1
  * parent: [B](#B)
@@ -18,7 +18,7 @@
    - [MG642078](https://www.ncbi.nlm.nih.gov/nuccore/MG642078)
    - [MG642025](https://www.ncbi.nlm.nih.gov/nuccore/MG642025)
    - [MG642044](https://www.ncbi.nlm.nih.gov/nuccore/MG642044)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.1)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.1)
 
 ## B.2
  * parent: [B](#B)
@@ -30,7 +30,7 @@
    - [MG642042](https://www.ncbi.nlm.nih.gov/nuccore/MG642042)
    - [MG642039](https://www.ncbi.nlm.nih.gov/nuccore/MG642039)
    - [MG642051](https://www.ncbi.nlm.nih.gov/nuccore/MG642051)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.2)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.2)
 
 ## B.3
  * parent: [B](#B)
@@ -39,12 +39,12 @@
    - [MG642049](https://www.ncbi.nlm.nih.gov/nuccore/MG642049)
    - [MG642064](https://www.ncbi.nlm.nih.gov/nuccore/MG642064)
    - [MG642062](https://www.ncbi.nlm.nih.gov/nuccore/MG642062)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.3)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.3)
 
 ## B.4
  * parent: [B](#B)
  * defining mutations or substitutions: NS1:105I, G:116T
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.4)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.4)
 
 ## B.D
  * parent: [B](#B)
@@ -56,7 +56,7 @@
    - [MH594451](https://www.ncbi.nlm.nih.gov/nuccore/MH594451)
    - [OK649725](https://www.ncbi.nlm.nih.gov/nuccore/OK649725)
    - [MK109770](https://www.ncbi.nlm.nih.gov/nuccore/MK109770)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D)
 
 ## B.D.1
  * parent: [B.D](#BD)
@@ -68,7 +68,7 @@
    - [MH594447](https://www.ncbi.nlm.nih.gov/nuccore/MH594447)
    - [KY249662](https://www.ncbi.nlm.nih.gov/nuccore/KY249662)
    - [KY249659](https://www.ncbi.nlm.nih.gov/nuccore/KY249659)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.1)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.1)
 
 ## B.D.1.1
  * parent: [B.D.1](#BD1)
@@ -80,7 +80,7 @@
    - [ON237101](https://www.ncbi.nlm.nih.gov/nuccore/ON237101)
    - [ON237110](https://www.ncbi.nlm.nih.gov/nuccore/ON237110)
    - [ON237120](https://www.ncbi.nlm.nih.gov/nuccore/ON237120)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.1.1)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.1.1)
 
 ## B.D.2
  * parent: [B.D](#BD)
@@ -89,7 +89,7 @@
    - [MH594443](https://www.ncbi.nlm.nih.gov/nuccore/MH594443)
    - [MH594444](https://www.ncbi.nlm.nih.gov/nuccore/MH594444)
    - [MH594461](https://www.ncbi.nlm.nih.gov/nuccore/MH594461)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.2)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.2)
 
 ## B.D.3
  * parent: [B.D](#BD)
@@ -98,7 +98,7 @@
    - [MH594414](https://www.ncbi.nlm.nih.gov/nuccore/MH594414)
    - [MH594418](https://www.ncbi.nlm.nih.gov/nuccore/MH594418)
    - [MH594410](https://www.ncbi.nlm.nih.gov/nuccore/MH594410)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.3)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.3)
 
 ## B.D.4
  * parent: [B.D](#BD)
@@ -112,7 +112,7 @@
    - [KY249677](https://www.ncbi.nlm.nih.gov/nuccore/KY249677)
    - [KY249670](https://www.ncbi.nlm.nih.gov/nuccore/KY249670)
    - [KY249667](https://www.ncbi.nlm.nih.gov/nuccore/KY249667)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.4)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4)
 
 ## B.D.4.1
  * parent: [B.D.4](#BD4)
@@ -125,7 +125,7 @@
    - [MK749871](https://www.ncbi.nlm.nih.gov/nuccore/MK749871)
    - [MK749892](https://www.ncbi.nlm.nih.gov/nuccore/MK749892)
    - [MK749898](https://www.ncbi.nlm.nih.gov/nuccore/MK749898)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1)
 
 ## B.D.4.1.1
  * parent: [B.D.4.1](#BD41)
@@ -138,7 +138,7 @@
    - [MZ515970](https://www.ncbi.nlm.nih.gov/nuccore/MZ515970)
    - [MZ515591](https://www.ncbi.nlm.nih.gov/nuccore/MZ515591)
    - [MZ515613](https://www.ncbi.nlm.nih.gov/nuccore/MZ515613)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.1)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.1)
 
 ## B.D.4.1.2
  * parent: [B.D.4.1](#BD41)
@@ -147,7 +147,7 @@
    - [MN365320](https://www.ncbi.nlm.nih.gov/nuccore/MN365320)
    - [MN365557](https://www.ncbi.nlm.nih.gov/nuccore/MN365557)
    - [MN365519](https://www.ncbi.nlm.nih.gov/nuccore/MN365519)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.2)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.2)
 
 ## B.D.4.1.3
  * parent: [B.D.4.1](#BD41)
@@ -156,7 +156,7 @@
    - [OK500261](https://www.ncbi.nlm.nih.gov/nuccore/OK500261)
    - [OK500261](https://www.ncbi.nlm.nih.gov/nuccore/OK500261)
    - [PQ762971](https://www.ncbi.nlm.nih.gov/nuccore/PQ762971)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.3)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.4.1.3)
 
 ## B.D.E.1
  * parent: [B.D.4.1.1](#BD411)
@@ -168,7 +168,7 @@
    - [OQ357797](https://www.ncbi.nlm.nih.gov/nuccore/OQ357797)
    - [OP890346](https://www.ncbi.nlm.nih.gov/nuccore/OP890346)
    - [OP890343](https://www.ncbi.nlm.nih.gov/nuccore/OP890343)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1)
 
 ## B.D.E.1.1
  * parent: [B.D.E.1](#BDE1)
@@ -177,7 +177,7 @@
    - [PV081112](https://www.ncbi.nlm.nih.gov/nuccore/PV081112)
    - [PV016988](https://www.ncbi.nlm.nih.gov/nuccore/PV016988)
    - [PQ492134](https://www.ncbi.nlm.nih.gov/nuccore/PQ492134)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.1)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.1)
 
 ## B.D.E.1.2
  * parent: [B.D.E.1](#BDE1)
@@ -187,7 +187,7 @@
    - [PP084063](https://www.ncbi.nlm.nih.gov/nuccore/PP084063)
    - [PP959042](https://www.ncbi.nlm.nih.gov/nuccore/PP959042)
    - [PQ117672](https://www.ncbi.nlm.nih.gov/nuccore/PQ117672)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.2)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.2)
 
 ## B.D.E.1.3
  * parent: [B.D.E.1](#BDE1)
@@ -195,7 +195,7 @@
  * representative sequences:
    - [PP910821](https://www.ncbi.nlm.nih.gov/nuccore/PP910821)
    - [PP709468](https://www.ncbi.nlm.nih.gov/nuccore/PP709468)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.3)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.3)
 
 ## B.D.E.1.4
  * parent: [B.D.E.1](#BDE1)
@@ -204,7 +204,7 @@
    - [PP530270](https://www.ncbi.nlm.nih.gov/nuccore/PP530270)
    - [PP957803](https://www.ncbi.nlm.nih.gov/nuccore/PP957803)
    - [PV081093](https://www.ncbi.nlm.nih.gov/nuccore/PV081093)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.4)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.4)
 
 ## B.D.E.1.5
  * parent: [B.D.E.1](#BDE1)
@@ -212,7 +212,7 @@
  * representative sequences:
    - [PV081118](https://www.ncbi.nlm.nih.gov/nuccore/PV081118)
    - [PV081119](https://www.ncbi.nlm.nih.gov/nuccore/PV081119)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.5)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.5)
 
 ## B.D.E.1.6
  * parent: [B.D.E.1](#BDE1)
@@ -220,7 +220,7 @@
  * representative sequences:
    - [PQ849400](https://www.ncbi.nlm.nih.gov/nuccore/PQ849400)
    - [PQ798811](https://www.ncbi.nlm.nih.gov/nuccore/PQ798811)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.6)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.6)
 
 ## B.D.E.1.7
  * parent: [B.D.E.1](#BDE1)
@@ -233,7 +233,7 @@
    - [PP_002WN9Z](https://pathoplexus.org/seq/PP_002WN9Z)
    - [PP_002WPL9](https://pathoplexus.org/seq/PP_002WPL9)
    - [PP_002WR38](https://pathoplexus.org/seq/PP_002WR38)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.7)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.7)
 
 ## B.D.E.1.8
  * parent: [B.D.E.1](#BDE1)
@@ -244,7 +244,7 @@
    - [PP_002W53U](https://pathoplexus.org/seq/PP_002W53U)
    - [PP_002WBC4](https://pathoplexus.org/seq/PP_002WBC4)
    - [PP_002W6UA](https://pathoplexus.org/seq/PP_002W6UA)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.8)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.1.8)
 
 ## B.D.E.2
  * parent: [B.D.4.1.1](#BD411)
@@ -258,12 +258,12 @@
    - [OM857390](https://www.ncbi.nlm.nih.gov/nuccore/OM857390)
    - [OM857380](https://www.ncbi.nlm.nih.gov/nuccore/OM857380)
    - [OR666591](https://www.ncbi.nlm.nih.gov/nuccore/OR666591)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.2)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.2)
 
 ## B.D.E.3
  * parent: [B.D.4.1.1](#BD411)
  * defining mutations or substitutions: F:19V, F:526V
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.3)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.3)
 
 ## B.D.E.4
  * parent: [B.D.4.1.1](#BD411)
@@ -274,7 +274,7 @@
    - [OM857382](https://www.ncbi.nlm.nih.gov/nuccore/OM857382)
    - [OM857383](https://www.ncbi.nlm.nih.gov/nuccore/OM857383)
    - [OM857387](https://www.ncbi.nlm.nih.gov/nuccore/OM857387)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.4)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.4)
 
 ## B.D.E.5
  * parent: [B.D.4.1.1](#BD411)
@@ -284,7 +284,7 @@
    - [OR162288](https://www.ncbi.nlm.nih.gov/nuccore/OR162288)
    - [PQ083698](https://www.ncbi.nlm.nih.gov/nuccore/PQ083698)
    - [PQ638753](https://www.ncbi.nlm.nih.gov/nuccore/PQ638753)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.5)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.5)
 
 ## B.D.E.6
  * parent: [B.D.4.1.1](#BD411)
@@ -295,7 +295,7 @@
    - [PP_002TEAB](https://pathoplexus.org/seq/PP_002TEAB)
    - [PP_002TF4N](https://pathoplexus.org/seq/PP_002TF4N)
    - [PP_002U9W7](https://pathoplexus.org/seq/PP_002U9W7)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.6)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.6)
 
 ## B.D.E.7
  * parent: [B.D.4.1.1](#BD411)
@@ -306,5 +306,5 @@
    - [PP_002WY4Z](https://pathoplexus.org/seq/PP_002WY4Z)
    - [PP_002X9KP](https://pathoplexus.org/seq/PP_002X9KP)
    - [PP_002XZMV](https://pathoplexus.org/seq/PP_002XZMV)
- * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:B.D.E.7)
+ * [View in Nextstrain](https://nextstrain.org/rsv/b/genome?branchLabel=clade&c=clade&label=clade:B.D.E.7)
 
